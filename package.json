@@ -1,6 +1,6 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
-  "name": "Thaipo",
+  "name": "thaipo",
   "title": "Thaipo",
   "description": "Thai-English Keyboard Mapping",
   "icon": "extension_icon.png",

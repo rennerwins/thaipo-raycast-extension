@@ -1,16 +1,16 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
-  "name": "hello-extension",
-  "title": "Thai-English",
+  "name": "thaipo",
+  "title": "Thaipo",
   "description": "Thai-English Keyboard Mapping",
   "icon": "extension_icon.png",
-  "author": "win_eiwwongcharoen",
+  "author": "Win Eiwwonghcaroen",
   "license": "MIT",
   "commands": [
     {
       "name": "index",
       "title": "Thaipo",
-      "description": "Template with a plain detail view",
+      "description": "Thai-English Keyboard Mapping",
       "mode": "view"
     }
   ],
